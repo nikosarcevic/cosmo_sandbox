@@ -5,7 +5,7 @@ from scipy.spatial import distance
 __all__ = [
     "generate_cluster", "generate_random_background", "mask_void_region",
     "generate_filament", "add_shapes",
-    "compute_2pcf", "compute_tangential_and_cross",
+    "compute_tangential_and_cross",
     "bin_2pcf", "compute_2pcf_and_xi"
 ]
 
